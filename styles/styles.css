@@ -32,8 +32,8 @@ body{
   margin-right: auto;
   width: 50%;  
   height:0px; */
-  float:right;
-  margin-right: 300px;
+  /* float:right; */
+  margin-right: 800px;
   margin-top: -20px;
 
 }
@@ -44,3 +44,6 @@ body{
 /* .bar{
     float:left;
 } */
+.text{
+    float:left;
+}
